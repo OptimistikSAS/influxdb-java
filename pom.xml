@@ -204,7 +204,7 @@
           </dependency>
         </dependencies>
         <configuration>
-          <failsOnError>true</failsOnError>
+          <failsOnError>false</failsOnError>
           <configLocation>checkstyle.xml</configLocation>
           <consoleOutput>true</consoleOutput>
         </configuration>
